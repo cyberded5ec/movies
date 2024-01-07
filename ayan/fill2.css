@@ -1,0 +1,217 @@
+body
+{
+	background: black;
+	color: red;
+}	
+
+.header
+{
+	word-spacing: 20px;
+	font-size: 25px;
+	width: 260px;
+	border: 2px solid red;
+	width: 1495px;
+	position: fixed;
+	margin-top: -200px;
+	background: linear-gradient(to right, #cc3300 0%, #333399 89%);
+
+}
+.header a 
+{
+	
+	color: black;
+	margin-left: 250px;
+}
+.ul li ,a
+{
+	text-decoration: none;
+}
+.header ul,li,a
+{
+	display: flex;	
+}
+.h1
+{
+	margin-left: 560px;
+	
+	
+	margin-top: 200px;
+}	
+
+
+
+.h1 {
+    font-family: Arial, sans-serif;
+    font-size: 90px;
+    font-weight: bold;
+    color: #fff; /* White color for the text */
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    position: relative;
+    animation: neon 1.5s ease-in-out infinite alternate;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00ff, 0 0 70px #ff00ff, 0 0 80px #ff00ff, 0 0 100px #ff00ff, 0 0 150px #ff00ff;
+}
+
+@keyframes neon {
+    0% {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00ff, 0 0 70px #ff00ff, 0 0 80px #ff00ff, 0 0 100px #ff00ff, 0 0 150px #ff00ff;
+    }
+    100% {
+        text-shadow: 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #ff00ff, 0 0 80px #ff00ff, 0 0 90px #ff00ff, 0 0 110px #ff00ff, 0 0 160px #ff00ff;
+    }
+}
+
+
+
+
+.img1
+{
+	width: 1000px;
+	margin-left: 220px;
+	margin-top: 90px;
+
+}
+.about 
+{
+	font-size: 30px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 150px;
+	color: grey;
+}
+
+.piza
+{
+	width: 500px;
+	margin-top: 200px;
+}
+
+.pizza
+{
+	font-size: 40px;
+	color: white;
+	margin-top: -600px;
+	margin-left: 500px;
+}
+.menu1
+{
+	font-size: 20px;
+	color: white;
+	margin-top: -80px;
+	margin-left: 550px;
+}
+.menu2
+{
+	font-size: 20px;
+	color: white;
+	margin-top: -50px;
+	margin-left: 550px;
+}
+.menu3
+{
+	font-size: 20px;
+	color: white;
+	margin-top: -50px;
+	margin-left: 550px;
+}
+.burger1
+{
+	margin-top: 150px ;
+	width: 600px;
+}
+.menu4
+{
+	font-size: 60px;
+	color: white;
+	margin-top: -300px;
+	margin-left: 500px;
+}
+.menu5
+{
+	font-size:30px;
+	color: white;
+	margin-top: -200px;
+	margin-left: 550px;
+}
+.menu6
+{
+	font-size:30px;
+	color: white;
+	margin-top: -100px;
+	margin-left: 550px;
+
+}
+.footer
+{
+	color: white;
+}
+
+.divfooter
+{
+	background: grey;
+	width: 1510px;
+	height: 300px;
+	margin-top: 100px;
+}
+.Contact
+{
+	
+	font-size: 70px;
+	color: white;
+}
+.number
+{
+	font-size: 30px;
+	margin-left: 100px;
+
+}
+
+.insta
+{
+	font-size: 30px;
+	margin-left: 500px;
+	margin-top: -90px;
+
+}
+.whatsapp
+{
+	font-size: 30px;
+	margin-left: 500px;
+	margin-top: -90px;
+}
+.gmail
+{
+	font-size: 30px;
+	margin-left: 500px;
+	margin-top: -90px;
+
+}
+
+.neon {
+    font-family: Arial, sans-serif;
+    font-size: 90px;
+    font-weight: bold;
+    color: #fff; /* White color for the text */
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    position: relative;
+    animation: neon 1.5s ease-in-out infinite alternate;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00ff, 0 0 70px #ff00ff, 0 0 80px #ff00ff, 0 0 100px #ff00ff, 0 0 150px #ff00ff;
+    margin-left: 1000px;
+    margin-top: -10px;
+}
+
+
+@keyframes neon {
+    0% {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00ff, 0 0 70px #ff00ff, 0 0 80px #ff00ff, 0 0 100px #ff00ff, 0 0 150px #ff00ff;
+    }
+    100% {
+        text-shadow: 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #ff00ff, 0 0 80px #ff00ff, 0 0 90px #ff00ff, 0 0 110px #ff00ff, 0 0 160px #ff00ff;
+    }
+}
+
+.about
+{
+
+}

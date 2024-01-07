@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background: linear-gradient(to bottom left, #ff6666 0%, #009999 100%) ;
+    height: 707px;
+}
+div ul 
+{
+    display: flex;
+    list-style-type: none;
+
+}
+
+div ul,li
+{
+    padding: 20px;
+}
+
+.bar
+{
+    
+    padding: 30px;
+}
+
+ .bar1   
+{
+    color: black;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size:30px;
+}
+
+.bar2
+{
+    margin-top: -80px;
+    margin-left: 400px;
+    font-size: 18px;
+}
+
+.button1
+{
+    border: solid black 3px;
+    font-size: 20px;
+    min-height: 48px;
+    min-width: 100px;
+    padding: 10px 25px;
+    box-shadow: 4px 4px 0 #131313 ;
+}
+
+.button1:hover{
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s;
+    color: red;
+    background: orange;
+}
+ 
+.btn
+{
+    
+   margin-left: 1200px;
+   margin-top: -70px;
+
+}
+
+
+
+hr{
+    border-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.h1
+{
+    margin-left: 100px;
+    margin-top: 90px;
+    font-size: 100px;
+    font-family: Berlin Sans FB;
+}
+
+.p1
+{
+    margin-left: 800px;
+    margin-top: -320px;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.hr
+{
+    font-family: sans-serif;
+}
+
+.button2
+{
+    margin-left: 810px;
+    margin-top: 30px;
+    min-width: 200px;
+    min-height: 68px;
+    font-size: 20px;
+    box-shadow: 4px 4px 0 #131313 ;
+    background: orange;
+}
+
+li:hover{
+    color: yellow;
+}

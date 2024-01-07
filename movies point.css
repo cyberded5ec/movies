@@ -1,0 +1,13 @@
+*{
+	font-family: "montserral",sans-serif;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+*box{ 
+	background-image: linear-gradiurlent(rgba(0, 0, 0, 9)rgba(0, 0, 0, 9),url("https://m.media-amazon.com/images/M/MV5BMThlOWE3MWEtZjM4Ny00M2FiLTkyMmYtZGY3ZTcyMzM5YmNlXkEyXkFqcGdeQWpnYW1i._V1_.jpg");
+}
+header{
+	width: 300px;
+}
